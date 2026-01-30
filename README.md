@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Edwin, currently a Junior at Northeastern University, majoring in Data Science and Mathematics with a minor in Philosophy. I'm always looking for projects to explore data analysis and computational techniques. On campus, I am co-president of the Men's Water Polo team, a member of The Ortelian Society, the Math club, and I enjoy playing Jazz piano. 
 
+I've recently worked on [Stratify](https://github.com/AdesolaOdubiyi/cs3200-final-project), a unified investment analytics platform.
 <!--
 **esmilack/esmilack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
